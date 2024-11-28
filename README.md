@@ -32,5 +32,3 @@
 - **Programming Languages:** Java
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Eclipse
-
-Looking forward to connecting with others in tech and sharing projects and ideas!
