@@ -24,7 +24,7 @@
 ## Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e81577aeff3744358e99cfbc4c1b039a#)
 - [Oracle Cloud Infastructure 2024 Certified Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401616&trackId=OCI2024FNDCFA&key=53e2a38d23ddfe33724b8ae72fb2d5bd9191609f)
-- [Oracle Cloud Infastructure 2024 Data Certified Foundations Associate]([https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401616&trackId=OCI2024FNDCFA&key=53e2a38d23ddfe33724b8ae72fb2d5bd9191609f](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401616&trackId=OCI2024DCFA&key=beac1e1a1033b1d911763ff37fd86c748dec6f46)
+- [Oracle Cloud Infastructure 2024 Data Certified Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401616&trackId=OCI2024DCFA&key=beac1e1a1033b1d911763ff37fd86c748dec6f46)
 - [Oracle Cloud Infastructure 2024 Data Certified AI Foundations Associate](https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5401616&trackId=OCI24AICFA&key=ea49f4ba5dbd8c2a871fff0addf34fe75330a915)
 
 ## Skillsets
