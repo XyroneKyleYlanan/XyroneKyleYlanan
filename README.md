@@ -3,11 +3,6 @@
 2nd Year BS Information Technology student from New Era University.
 
 ## Education
-- **Elementary:**
-  - School of the Future - San Carlos City, Negros Occidental
-  - Dr. Alejandro Albert Elementary School
-  - Graduated from Kabayanan Elementary School - San Juan City
-
 - **Junior High School:**
   - Arellano University Plaridel Campus
   - Calumpit National High School
