@@ -4,7 +4,8 @@
 
 # Education
 **Bachelor's Degree:**
-- **BS Information Technology, New Era University Main Campus**
+- **BS Information Technology**
+- **New Era University Main Campus**
 - **2023 - Present**
 
 # Certifications
