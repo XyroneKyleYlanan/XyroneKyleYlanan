@@ -4,8 +4,8 @@
 
 # Education
 **Bachelor's Degree:**
-- **BS Information Technology, New Era University Main Campus
-- **2023 - Present
+- **BS Information Technology, New Era University Main Campus**
+- **2023 - Present**
 
 # Certifications
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e81577aeff3744358e99cfbc4c1b039a#)
