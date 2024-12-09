@@ -3,15 +3,6 @@
 2nd Year BS Information Technology student from New Era University.
 
 ## Education
-- **Junior High School:**
-  - Arellano University Plaridel Campus
-  - Calumpit National High School
-  - Pulong Buhangin National High School
-  - Graduated from New Era High School
-
-- **Senior High School:**
-  - Graduated from Gardner College Diliman - Quezon City
-
 - **Bachelor's Degree:**
   - BS Information Technology, New Era University Main Campus
   - 2023 - Present
