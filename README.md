@@ -3,7 +3,7 @@
 2nd Year BS Information Technology student from New Era University.
 
 # Education
-- **Bachelor's Degree:**
+- Bachelor's Degree:
 - **BS Information Technology, New Era University Main Campus
 - **2023 - Present
 
