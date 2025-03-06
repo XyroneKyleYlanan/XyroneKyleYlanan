@@ -16,6 +16,6 @@
 
 # Skillsets
 - **Technical Skills:** Coding, Photo Editing, Music Production, Audio Mixing & Mastering
-- **Programming Languages:** Java
+- **Programming Languages:** Java, Python, Bash
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Eclipse
+- **Tools:** Lucidchart, Eclipse, Pycharm
