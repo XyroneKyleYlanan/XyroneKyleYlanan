@@ -15,7 +15,7 @@
 - [Oracle Cloud Infastructure 2024 Data Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=335D3BB55E9DA25D172A223E8E09E7AE0B3A3B83CBA077FEA20B5BB6A1071EC1)
 
 # Skillsets
-- **Technical Skills:** Coding, Photo Editing, Music Production, Audio Mixing & Mastering
-- **Programming Languages:** Java, Python, Bash
+- **Technical Skills:** Programming, Photo Editing, Music Production, Audio Mixing & Mastering
+- **Programming Languages:** PHP, HTML, Java, Python, Bash
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Eclipse, Pycharm
+- **Tools:** VS Code, Pycharm, Eclipse, Figma, Lucidchart
