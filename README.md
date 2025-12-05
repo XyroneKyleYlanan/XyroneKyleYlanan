@@ -1,4 +1,4 @@
-# Hi there! I'm Xyrone Ylanan 
+# I'm Xyrone Ylanan 
 
 3rd Year BS Information Technology student from New Era University.
 
@@ -17,5 +17,5 @@
 # Skillsets
 - **Technical Skills:** Programming, Photo Editing, Music Production, Audio Mixing & Mastering
 - **Programming Languages:** PHP, HTML, Java, Python, Bash
-- **Databases:** IBM DB2 Cloud
-- **Tools:** VS Code, Pycharm, Eclipse, Figma, Lucidchart
+- **Databases:** IBM DB2 Cloud, MySQL, SQLite
+- **Tools:** VS Code, Pycharm, Eclipse, Figma, Lucidchart, Adobe Photoshop
