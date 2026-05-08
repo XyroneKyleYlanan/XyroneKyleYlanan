@@ -1,6 +1,6 @@
 # I'm Xyrone Ylanan 
 
-3rd Year BS Information Technology student from New Era University.
+BS Information Technology student from New Era University.
 
 # Education
 **Bachelor's Degree:**
