@@ -15,7 +15,7 @@ BS Information Technology student from New Era University.
 - [Oracle Cloud Infastructure 2024 Data Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=335D3BB55E9DA25D172A223E8E09E7AE0B3A3B83CBA077FEA20B5BB6A1071EC1)
 
 # Skillsets
-- **Technical Skills:** Programming, Photo Editing, Music Production, Audio Mixing & Mastering
+- **Technical Skills:** Programming, Music Production, Photo Editing
 - **Programming Languages:** PHP, HTML, Java, Python, Bash
 - **Databases:** IBM DB2 Cloud, MySQL, SQLite
 - **Tools:** VS Code, Pycharm, Eclipse, Figma, Lucidchart, Adobe Photoshop
